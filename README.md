@@ -1,7 +1,7 @@
 # AidanFairman.github.io
 ========================
 
-##Hello, Friend!
+## Hello, Friend!
 
 Welcome to my Github portfolio
 
