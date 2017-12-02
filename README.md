@@ -1,5 +1,4 @@
 # AidanFairman.github.io
-========================
 
 ## Hello, Friend!
 
