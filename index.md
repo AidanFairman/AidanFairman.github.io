@@ -4,6 +4,9 @@
 
 - [Lunar Lander](/LunarLander) -> 
     A vector art physics game in XNA/MonoGame. Land on a foreign planet!
+    
+- [Mutation](/Mutation) -> 
+    Side-scrolling chase game, where you get chased by a hazard through some alien worlds. Produced as part of my collaborative game design class using GameMaker Studio
 
 - [Prime Sieve](/PrimeSieve) -> 
     Sieve of Eratosthenes, written and threaded in C++.
