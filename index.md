@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome
+ 
+### Thank you for taking the time to visit my portfolio. Below is a list of projects and a very short description. Click on the name to open the project page.
 
-You can use the [editor on GitHub](https://github.com/AidanFairman/AidanFairman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Lunar Lander](AidanFairman.github.io/LunarLander)
+    A vector art physics game in XNA/MonoGame. Land on a foreign planet!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Prime Sieve](aidanfairman.github.io/PrimeSieve)
+    Sieve of Eratosthenes, written and threaded in C++.
 
-### Markdown
+- [AI for Magic the Gathering](https://aidanfairman.github.io/AI-MagicTheGathering)
+    Basic AI that plays Knights vs Dragons duel decks, written in C#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Elevator Simulation](https://aidanfairman.github.io/ElevatorSim)
+    Small discrete event simulaton of an elevator picking people up and taking them to another floor. Animated with MonoGame/XNA. Nothing fancy.
 
-```markdown
-Syntax highlighted code block
+- [Huffman Encoding](https://aidanfairman.github.io/HuffmanEncoding)
+    Huffman Encoding algorithm, coded in C++. Utilizes threading as producer/consumer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AidanFairman/AidanFairman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Calculator](https://aidanfairman.github.io/Calculator)
+    Calculator written in C++, utilizing Win32 form (keyboard interactivity!!) and an undo button. Try it out!
